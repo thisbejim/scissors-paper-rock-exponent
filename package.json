@@ -1,0 +1,19 @@
+{
+  "name": "SPR",
+  "version": "0.0.1",
+  "main": "index.ios.js",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "events": "^1.0.2",
+    "firebase": "^2.3.1",
+    "flux": "^2.0.3",
+    "object-assign": "^3.0.0",
+    "react": "^0.13.3",
+    "react-native": "exponentjs/react-native#2015-10-08-xde",
+    "react-native-icons": "^0.6.3",
+    "underscore": "^1.8.3"
+  }
+}
